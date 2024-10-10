@@ -23,6 +23,6 @@ function tableGenerator(){
         i++;
         resultElement.style.color = "blue";
     }
-    inputElement.value = "";
         }
+        inputElement.value = "";
 }
